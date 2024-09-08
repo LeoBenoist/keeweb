@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "dropbox": false,
+    "webdav": false,
+    "onedrive": false,
+    "msteams": false,
+    "gdrive": true,
+    "gdriveClientId": "385216555150-pj69qtv3lk9s6pfvd4o1pac5t4tmel49.apps.googleusercontent.com",
+    "gdriveClientSecret": "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"
+  }
+}
